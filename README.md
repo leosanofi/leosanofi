@@ -1,5 +1,5 @@
 # AI
-<img width="1920" height="2560" alt="342b1c5a-f6e5-4608-b877-4572dd6fd151" src="https://github.com/user-attachments/assets/6130ff89-aef8-4c91-af7c-d0438950916f" />
+<img width="900" height="590" alt="chasingmiracles" src="https://github.com/user-attachments/assets/4959fe8f-9acc-4005-9324-23575f57c5bb" />
 
 A compressed record of the ideas, systems, and breakthroughs that shaped modern artificial intelligence.
 
