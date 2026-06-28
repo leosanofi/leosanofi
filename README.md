@@ -1,4 +1,4 @@
-# AI
+# ♌AI
 <img width="900" height="590" alt="chasingmiracles" src="https://github.com/user-attachments/assets/4959fe8f-9acc-4005-9324-23575f57c5bb" />
 
 A compressed record of the ideas, systems, and breakthroughs that shaped modern artificial intelligence.
